@@ -1,16 +1,16 @@
 {
   "players": [
     {
-      "steamId": 76561198179679146
+      "steamId": 76561198179679146,
       "banReason": "Banned for ban behaviour"
     },
     {
-      "steamId": 76561198179679146
+      "steamId": 76561198179679146,
       "banReason": "Banned for ban behaviour"
     },
     {
-      "steamId": 76561198179679146
+      "steamId": 76561198179679146,
       "banReason": "Banned for ban behaviour"
-    },
+    }
   ]
 }
